@@ -1,6 +1,6 @@
 import torch
 from torch.autograd import Variable
-
+# df
 
 class FGSM:
     def __init__(self, model, criterion, epsilon):
